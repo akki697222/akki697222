@@ -38,4 +38,4 @@ Likes
 
 Discord: `@akki__`
 
-![javajavascript]()
+![cursed_java](https://github.com/user-attachments/assets/bdd9b643-f010-4273-a1ec-6d37d2c29cbe)
