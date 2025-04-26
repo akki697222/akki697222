@@ -20,7 +20,7 @@ Editors
 
 Languages
 - Java / C# (also as Microsoft Java)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akki6972222)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akki697222)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Others
 
