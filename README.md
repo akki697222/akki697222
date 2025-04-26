@@ -19,7 +19,11 @@ Editors
 - WindSurf
 
 Languages
-- Java / C# (also as Microsoft Java)
+- Java
+- Lua
+- C++
+- C# (also as Microsoft Java)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akki697222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Others
