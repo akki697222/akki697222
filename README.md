@@ -35,6 +35,6 @@ Likes
 
 Discord: `@akki__`
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=akki697222)
+[![akki697222's GitHub stats](https://github-readme-stats.vercel.app/api?username=akki697222)](https://github.com/anuraghazra/github-readme-stats)
 
 ![cursed_java](https://github.com/user-attachments/assets/bdd9b643-f010-4273-a1ec-6d37d2c29cbe)
