@@ -16,13 +16,11 @@ I Can speak japanese and little english.
 Editors
 - Visual Studio Code
 - IntelliJ IDEA (Community Edition)
-- WindSurf
 
 Languages
-- Java
+- Java (Main)
+- ANTLR4
 - Lua
-- C++
-- C# (also as Microsoft Java)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akki697222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -34,6 +32,8 @@ Likes
     - Mekanism
     - CC:Tweaked / OpenComputers
   - Mod Creation (Currently working: CyberwareCE)
+- Stormworks
+- Factorio
 - Blue Archive (i love hare)
 - Pepsi Cola
 
