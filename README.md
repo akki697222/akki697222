@@ -31,7 +31,8 @@ Likes
   - Modding
     - Mekanism
     - CC:Tweaked / OpenComputers
-  - Mod Creation (Currently working: CyberwareCE)
+  - Mod Creation (Currently working: None)
+  - Plugin Depelopment 
 - Stormworks
 - Factorio
 - Blue Archive (i love hare)
