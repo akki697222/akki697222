@@ -16,11 +16,13 @@ I Can speak japanese and little english.
 Editors
 - Visual Studio Code
 - IntelliJ IDEA (Community Edition)
+- Cursor <-New!!!
 
 Languages
 - Java (Main)
-- ANTLR4
+   - ANTLR4
 - Lua
+- C++ (only basic)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akki697222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
