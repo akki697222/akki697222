@@ -16,7 +16,6 @@ I Can speak japanese and little english.
 Editors
 - Visual Studio Code
 - IntelliJ IDEA (Community Edition)
-- Cursor <-New!!!
 
 Languages
 - Java (Main)
