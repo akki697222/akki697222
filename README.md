@@ -26,8 +26,7 @@ I Can speak japanese and little english.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akki697222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=idea,java,gradle,maven)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=unity,lua,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,java,gradle,maven,lua)](https://skillicons.dev)
 ## Others
 
 Likes
