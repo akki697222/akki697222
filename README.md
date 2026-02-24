@@ -34,7 +34,7 @@ Likes
   - Modding
     - Mekanism
     - CC:Tweaked / OpenComputers
-  - Mod Creation (Currently working: None)
+  - Mod Creation (Currently porting KosmosPrime's OpenComputers 1.16.5 port to 1.18.2)
   - Plugin Depelopment 
 - Stormworks
 - Factorio
