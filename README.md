@@ -18,8 +18,7 @@ I Can speak japanese and little english.
 - IntelliJ IDEA (Community Edition)
 
 ### Languages
-- Java (Main)
-   - ANTLR4
+- Java (Main, for three years)
 - Lua
 - C++ (only basic)
 
@@ -29,17 +28,23 @@ I Can speak japanese and little english.
 [![My Skills](https://skillicons.dev/icons?i=idea,java,gradle,maven,lua)](https://skillicons.dev)
 ## Others
 
-Likes
+### Likes
 - Minecraft
   - Modding
     - Mekanism
     - CC:Tweaked / OpenComputers
-  - Mod Creation (Currently porting KosmosPrime's OpenComputers 1.16.5 port to 1.18.2)
+  - Mod Creation (Currently porting KosmosPrime's OpenComputers 1.16.5 port to 1.20.1)
   - Plugin Depelopment 
 - Stormworks
 - Factorio
 - Blue Archive (i love hare)
 - Pepsi Cola
+
+### ***Big Love***
+- Cosmic Princess Kaguya!
+  - Yachiyo
+  - Iroha Sakayori
+  - Kaguya
 
 Discord: `@akki__`
 
